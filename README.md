@@ -7,6 +7,8 @@ This repository contains the directories that hold the various ALX Projects on f
 |Title|Description|
 |-----|-----------|
 |0x00-ES6_basic|This topic covered ES6 generally|
+|0x01. ES6 Promises|This topic covers promises with the use of async and wait|
+|0x02. ES6 classes|This topic covers classes in JS|
 
 
 
